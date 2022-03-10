@@ -45,10 +45,15 @@ More details within [[Obsidian plugins]]
 This system is currently closely tied to an Obsidian community plugins:
 - Tasks
 - Dataview
+- Templates (core plugin)
 - [ ] Add template or templater functionality mention here
+- [ ] Day Planner
+- [ ] Calendar
 
 **Daily notes** are a core plugin which is included by default by Obsidian.  However, a vanilla install has the plugin disabled.
 
 ## Daily Notes
 
 ## Templates
+
+core plugin
