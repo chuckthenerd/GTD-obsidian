@@ -1,6 +1,6 @@
 # Projects
 
-- [ ] Generate a list of all Projects here
+- [ ] Generate a list of all ACTIVE Projects here
 
 %% Exclude this file and path (Templates or Archive)
 removing column ", file.size as Size "

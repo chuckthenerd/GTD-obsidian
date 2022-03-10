@@ -2,7 +2,7 @@
 links and tags: [[Project]]
 ---
 
-# <% tp.file.title %>
+# Project - GTD-obsidian
 
 What is it that needs to be done
 What is needed in order to do it?
