@@ -1,7 +1,7 @@
 # GTD-obsidian
 A starting point for GTD implementation.  This describes a general approach to implementing Getting Things Done by David Allen, but using obsidian.md as the implementation system.
 
-- [ ] Add link to book
+- [ ] Add link to book (Amazon/Goodreads/etc)
 - [ ] Add links to podcasts
 - [ ] Add link to other productivity resources.
 	- Discord server
@@ -40,7 +40,14 @@ Since this system can also act as an Zettelkasten / external trusted system / se
 
 ## Extending Obsidian with plugins
 
-This system is currently closely tied to an Obsidian community plugin called Tasks.  More details within [[Obsidian plugins]]
+More details within [[Obsidian plugins]]
+
+This system is currently closely tied to an Obsidian community plugins:
+- Tasks
+- Dataview
+- [ ] Add template or templater functionality mention here
+
+**Daily notes** are a core plugin which is included by default by Obsidian.  However, a vanilla install has the plugin disabled.
 
 ## Daily Notes
 
