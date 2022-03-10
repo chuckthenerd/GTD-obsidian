@@ -7,6 +7,7 @@ A starting point for GTD implementation.  This describes a general approach to i
 	- Discord server
 	- reddit
 	- facebook
+	- youtube
 
 
 ## Folder layout within this vault

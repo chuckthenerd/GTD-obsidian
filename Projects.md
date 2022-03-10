@@ -6,6 +6,8 @@
 removing column ", file.size as Size "
 %%
 
+## List of all active projects
+
 ``` dataview
 TABLE file.mtime as Edited, file.ctime as Created
 FROM ""
@@ -17,3 +19,6 @@ AND !contains(file.path, "Templates")
 AND !contains(file.path, "Archive")
 SORT file.mtime desc
 ```
+
+- [ ] List of all active projects and (next action OR next task which is not done)
+- [ ] List of all active projects that don't have a next action
