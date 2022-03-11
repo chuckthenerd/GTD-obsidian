@@ -4,9 +4,9 @@ Standard disclaimer here.  Community plugins require turning Obsidian's "Safe Mo
 
 ---
 
-The Tasks plugin is a key part of this GTD implementation.  It is used to indicates tasks/next actions.
+The **Tasks** plugin is a key part of this GTD implementation.  It is used to indicates tasks/next actions.
 
-![[Pasted image 20220310100618.png]]
+![[plugin_tasks.png]]
 
  Version: 1.4.1  By  Martin Schenck 
  Repository: https://github.com/schemar/obsidian-tasks
@@ -14,6 +14,6 @@ The Tasks plugin is a key part of this GTD implementation.  It is used to indica
  
  ---
  
- The Dataview plugin behaves like a list generator.  It is used to create lists of [[Projects]], Next Actions, context specific lists (@work, @home, @hw_store), etc
+ The **Dataview** plugin behaves like a list generator.  It is used to create lists of [[Projects]], Next Actions, context specific lists (@work, @home, @hw_store), etc
  
- ![[Pasted image 20220310102938.png]]
+ ![[plugin_dataview.png]]

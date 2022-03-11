@@ -1,1 +1,2 @@
-- [ ] Template Weekly Review
+
+- [ ] How to integrate calendar:  Outlook, iCal, Google Calendar

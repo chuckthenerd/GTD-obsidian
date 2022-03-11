@@ -1,17 +1,14 @@
 ---
-links and tags: [[Project]]
+tags: ["project"]
 ---
-
 # <% tp.file.title %>
 
-What is it that needs to be done
-What is needed in order to do it?
-Where can we get what we need?
-How can we tell if we're doing it right?
+1. What is it that needs to be done?
+2. What is needed in order to do it?
+3. Where can we get what we need?
+4. How can we tell if we're doing it right?
 
-
-### Bonus question that can be swapped out for #1:
-
+- Bonus question that can be swapped out for #1:
 What's the most important thing that it doesn't do yet?
 
 [1] What are the next two things to do? (Assign a task date) 
@@ -22,15 +19,12 @@ What's the most important thing that it doesn't do yet?
 
 
 ## keywords:
-- Higher purpose / why:
-- Goals: 
-- what:
-- how:
-- notes:
-- see also:
-- Due date: 
-- conceived:
-- completed:
-
-meta:
-[[Project]]
+Higher purpose / why:
+Goals: 
+What:
+How:
+Notes:
+Conceived date:
+Due date: 
+Completion date:
+See also:

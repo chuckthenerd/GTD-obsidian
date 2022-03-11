@@ -1,3 +1,6 @@
+---
+tags: [person,coworker]
+---
 # <% tp.file.title %>
 - Phone number:  <a href="tel:123-456-7890">123-456-7890</a>
 - Email:
@@ -10,6 +13,3 @@
 - Spouse:
 - Kids:
 - Interests:
-
-## tags:
-#person #coworker

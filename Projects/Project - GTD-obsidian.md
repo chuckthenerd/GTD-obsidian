@@ -1,7 +1,6 @@
 ---
-links and tags: [[Project]]
+tags: ["project"]
 ---
-
 # Project - GTD-obsidian
 
 What is it that needs to be done
@@ -31,6 +30,3 @@ What's the most important thing that it doesn't do yet?
 - Due date: 
 - conceived:
 - completed:
-
-meta:
-[[Project]]

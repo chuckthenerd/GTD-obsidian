@@ -1,22 +1,31 @@
 # Projects
 
-- [ ] Generate a list of all ACTIVE Projects here
+%% 
+   Exclude the files:  Project, Projects
+   and any file in the Archive path
+   and any file in the Template path
 
-%% Exclude this file and path (Templates or Archive)
-removing column ", file.size as Size "
+   Include the #project and files with Project in their name
 %%
+
 
 ## List of all active projects
 
 ``` dataview
-TABLE file.mtime as Edited, file.ctime as Created
-FROM ""
-WHERE contains(file.name, "Project")
-AND  file.name != "Projects"
-AND  file.name != "Project"
-AND !contains(file.name, "(ARCHIVE)")
-AND !contains(file.path, "Templates")
+TABLE file.tags,
+dateformat(file.mtime,"yyyy-MM-dd HH:mm") as Edited, 
+dateformat(file.ctime,"yyyy-MM-dd HH:mm") as Created, 
+file.size as Size
+FROM "" 
+WHERE
+(  contains(file.name, "Project") or contains(file.tags,"project") )
+AND
+(
+    file.name != "Projects"
+AND file.name != "Project"
 AND !contains(file.path, "Archive")
+AND !contains(file.path, "Templates")
+)
 SORT file.mtime desc
 ```
 

@@ -1,14 +1,15 @@
 # GTD-obsidian
-A starting point for GTD implementation.  This describes a general approach to implementing Getting Things Done by David Allen, but using obsidian.md as the implementation system.
+This project implements Getting Things Done ([[GTD]]) using [[Obsidian]].
 
 - [ ] Add link to book (Amazon/Goodreads/etc)
 - [ ] Add links to podcasts
 - [ ] Add link to other productivity resources.
-	- Discord server
-	- reddit
-	- facebook
-	- youtube
 
+## Why
+
+## Getting Started
+
+## Getting more advanced
 
 ## Folder layout within this vault
 
@@ -22,39 +23,35 @@ Since Obsidian has some very powerful filename and tag searching - the number of
 - Daily Notes
 - Templates
 
-Most of the folders resemble the P.A.R.A approach promoted by Tiago Forte.
+Some of the folders resemble the P.A.R.A approach promoted by Tiago Forte.
 
-_P.A.R.A._ stands for Projects — Areas — Resources — Archives, the four top-level categories that encompass many types of information you might encounter 
+_P.A.R.A._ stands for **Projects** — **Areas** — **Resources** — **Archives**, the four top-level categories that encompass many types of information you might encounter 
 
-Miscellaneous screenshots, PDFs, and other binary files could be classified as Resources, but let's place them into the **Attachments** folder.
+The **Attachments** folder is used for miscellaneous screenshots, PDFs, and other binary files.  Entries in this folder are not frequently revised.
 
-The concept of journalling or a bullet journal will be facilitated by the use of the **Daily Notes** folder.  The hotkey CTRL-U will jump to todays note which gets created in the Daily Notes area with a filename in the format of YYYY-MM-DD (this is known as ISO 8601 by data nerds and it is very useful)
-- [ ] link to xkcd
+The **Daily Notes** folder will retain entries similar to a diary or journal.  The hotkey __CTRL-U__ will jump to todays note within this folder with a filename in the format of YYYY-MM-DD (this is known as ISO 8601 by data nerds and it is very useful). 
 
-The **Templates** folder ties in with quickly generating a useful skeleton for information that shares a common basic format (e.g. books have a title, author, ISBN number; a contact has a name, birthday, email address).  
+<iframe  
+	border=0
+	frameborder=0
+	height=600
+	width=100%
+	src="https://m.xkcd.com/1179/"></iframe>
 
+The **Templates** folder ties in with quickly employing a useful baseline form for information that shares traits (e.g. the person template has a field for: name, birthday, email address; the project template has a field for: project name, start date, due date, completion date ).  
 
-
-Since this system can also act as an Zettelkasten / external trusted system / second brain - you may benefit from reading up on that concept
-- [ ] link to Zettelkasten info
-
-
-## Extending Obsidian with plugins
+## Extending GTD Obsidian with plugins
 
 More details within [[Obsidian plugins]]
 
-This system is currently closely tied to an Obsidian community plugins:
+This implementation of [[Project - GTD-obsidian|GTD Obsidian]] is closely tied to these community plugins:
+- Daily notes (core plugin)
+- Templates (core plugin)
 - Tasks
 - Dataview
-- Templates (core plugin)
-- [ ] Add template or templater functionality mention here
-- [ ] Day Planner
+- Templater
+- [ ] Day Planner for time boxing
 - [ ] Calendar
 
-**Daily notes** are a core plugin which is included by default by Obsidian.  However, a vanilla install has the plugin disabled.
-
-## Daily Notes
-
-## Templates
-
-core plugin
+---
+- [ ] Solicit coffee money in order to continue development
