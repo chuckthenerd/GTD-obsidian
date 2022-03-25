@@ -7,11 +7,16 @@
         "id": "4a9f2605b29c2d79",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "7e4d6817fe550193",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -47,12 +52,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "6dc9480a65febf8c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 180
   },
   "right": {
     "id": "e9c0b214ff104159",
@@ -68,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,19 +106,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "4a9f2605b29c2d79",
   "lastOpenFiles": [
-    "README.md",
-    "Tasks.md",
+    "organize your note.md",
+    "Resources/process your note.md",
+    "Quick start guide.md",
+    "Attachments/example_starred_projects.png",
+    "Projects.md",
+    "Attachments/example_tasks.png",
+    "Attachments/example_tasks.png",
     "Resources/Scratchpad.md",
-    "Resources/Lists.md",
-    "Resources/Obsidian plugins.md",
-    "Projects/Project - GTD-obsidian.md",
-    "Resources/Zettelkasten.md",
-    "Resources/Obsidian.md",
-    "Daily Notes/2022-03-11.md",
-    "Templates/Template Weekly Review.md"
+    "Take over the world.md",
+    "Templates/Template Project.md"
   ]
 }
