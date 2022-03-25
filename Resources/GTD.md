@@ -8,6 +8,7 @@ How to be:  present, effective, and creative
 
 ## Online references
 - [reddit.com/r/gtd](https://www.reddit.com/r/gtd/)
+- [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd)
 
 ## [6 Horizons of Focus](https://gettingthingsdone.com/2011/01/the-6-horizons-of-focus/)
 1. **Ground: Calendar/actions**  - current actions

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "Resources/Lists.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pdf",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Resources/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "4a9f2605b29c2d79",
   "lastOpenFiles": [
-    "README.md",
-    "Tasks.md",
-    "Resources/Scratchpad.md",
     "Resources/Lists.md",
-    "Resources/Obsidian plugins.md",
-    "Projects/Project - GTD-obsidian.md",
-    "Resources/Zettelkasten.md",
+    "Templates/Template Weekly Review.md",
+    "Resources/Someday-Maybe.md",
+    "Projects.md",
+    "Resources/Scratchpad.md",
+    "Tasks.md",
+    "Resources/GTD.md",
     "Resources/Obsidian.md",
-    "Daily Notes/2022-03-11.md",
-    "Templates/Template Weekly Review.md"
+    "Resources/Obsidian plugins.md",
+    "README.md"
   ]
 }
