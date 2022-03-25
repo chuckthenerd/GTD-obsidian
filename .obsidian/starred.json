@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "README",
+      "path": "README.md"
+    },
+    {
+      "type": "file",
+      "title": "Quick start guide",
+      "path": "Quick start guide.md"
+    },
+    {
+      "type": "file",
+      "title": "Projects",
+      "path": "Projects.md"
+    }
+  ]
+}

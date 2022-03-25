@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 180
   },
   "right": {
     "id": "e9c0b214ff104159",
@@ -76,7 +76,18 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "README.md",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+                "file": "Resources/Lists.md",
+>>>>>>> 335c00b5d0b5dbb2e43b72606e67eb601df7562d
+=======
+                "file": "organize your note.md",
+>>>>>>> mergeA
+>>>>>>> 4b975fd2981f1da6866e21c277ce50b2f46e1f04
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,19 +113,53 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "4a9f2605b29c2d79",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "README.md",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> mergeA
+    "organize your note.md",
+    "Resources/process your note.md",
+    "Quick start guide.md",
+    "Attachments/example_starred_projects.png",
+    "Projects.md",
+    "Attachments/example_tasks.png",
+    "Attachments/example_tasks.png",
+    "Resources/Scratchpad.md",
+    "Take over the world.md",
+    "Templates/Template Project.md"
+<<<<<<< HEAD
+=======
+    "Resources/Lists.md",
+    "Templates/Template Weekly Review.md",
+    "Resources/Someday-Maybe.md",
+    "Projects.md",
+    "Resources/Scratchpad.md",
+    "Tasks.md",
+    "Resources/GTD.md",
+>>>>>>> 4b975fd2981f1da6866e21c277ce50b2f46e1f04
     "Resources/Obsidian.md",
     "Projects.md",
     "Projects/Project - GTD-obsidian.md",
     "Archive/Project - Create git repo.md",
     "Resources/Obsidian plugins.md",
+<<<<<<< HEAD
     "Resources/Lists.md",
     "Resources/GTD.md",
     "Daily Notes/2022-03-11.md",
     "Tasks.md"
+=======
+    "README.md"
+>>>>>>> 335c00b5d0b5dbb2e43b72606e67eb601df7562d
+=======
+>>>>>>> mergeA
+>>>>>>> 4b975fd2981f1da6866e21c277ce50b2f46e1f04
   ]
 }

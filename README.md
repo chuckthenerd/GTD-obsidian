@@ -7,7 +7,8 @@ This project implements Getting Things Done ([[GTD]]) using [[Obsidian]].
 
 ## Why
 
-## Getting Started
+## Quick start guide
+If you prefer to get 60% of the functionality within 10 minutes, jump to the [[Quick start guide]].  This is the quick and dirty way to see if this approach resonates with you.
 
 ## Getting more advanced
 
