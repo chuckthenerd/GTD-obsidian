@@ -59,20 +59,20 @@
       "key": "L"
     }
   ],
-  "editor:focus-right": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "file-explorer:reveal-active-file": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "A"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
     }
   ]
 }
