@@ -77,9 +77,13 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                 "file": "Resources/Lists.md",
 >>>>>>> 335c00b5d0b5dbb2e43b72606e67eb601df7562d
+=======
+                "file": "organize your note.md",
+>>>>>>> mergeA
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +115,9 @@
   "active": "4a9f2605b29c2d79",
   "lastOpenFiles": [
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> mergeA
     "organize your note.md",
     "Resources/process your note.md",
     "Quick start guide.md",
@@ -121,6 +128,7 @@
     "Resources/Scratchpad.md",
     "Take over the world.md",
     "Templates/Template Project.md"
+<<<<<<< HEAD
 =======
     "Resources/Lists.md",
     "Templates/Template Weekly Review.md",
@@ -133,5 +141,7 @@
     "Resources/Obsidian plugins.md",
     "README.md"
 >>>>>>> 335c00b5d0b5dbb2e43b72606e67eb601df7562d
+=======
+>>>>>>> mergeA
   ]
 }

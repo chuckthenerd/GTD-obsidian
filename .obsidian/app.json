@@ -1,5 +1,8 @@
 {
-  "fileSortOrder": "byCreatedTimeReverse",
+  "fileSortOrder": "byModifiedTime",
   "promptDelete": false,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "spellcheck": true
 }
