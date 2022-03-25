@@ -70,7 +70,8 @@
   "file-explorer:reveal-active-file": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "A"
     }

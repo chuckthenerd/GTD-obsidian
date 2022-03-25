@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Lists.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -39,13 +39,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "project",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "c7adef6e1defbacc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Lists.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +106,15 @@
   },
   "active": "4a9f2605b29c2d79",
   "lastOpenFiles": [
-    "Resources/Lists.md",
-    "Templates/Template Weekly Review.md",
-    "Resources/Someday-Maybe.md",
-    "Projects.md",
-    "Resources/Scratchpad.md",
-    "Tasks.md",
-    "Resources/GTD.md",
+    "README.md",
     "Resources/Obsidian.md",
+    "Projects.md",
+    "Projects/Project - GTD-obsidian.md",
+    "Archive/Project - Create git repo.md",
     "Resources/Obsidian plugins.md",
-    "README.md"
+    "Resources/Lists.md",
+    "Resources/GTD.md",
+    "Daily Notes/2022-03-11.md",
+    "Tasks.md"
   ]
 }

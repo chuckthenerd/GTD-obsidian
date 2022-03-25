@@ -20,5 +20,5 @@ The **Tasks** plugin is a key part of this GTD implementation.  It is used to in
  
  ---
  
- Templater plugin
+ **Templater** plugin
  - [ ] Use the YT video from https://www.youtube.com/watch?v=ZiG6SPdbApI&t=147s

@@ -15,12 +15,12 @@ This project implements Getting Things Done ([[GTD]]) using [[Obsidian]].
 
 Since Obsidian has some very powerful filename and tag searching - the number of folders in use can be minimal.  The following folders are optional, but what I consider to be the current best practice.  Adapt the folder structure to whatever works for your needs:
 
-- Projects
+- Archive
 - Areas
-- Resources
-- Archives
 - Attachments
 - Daily Notes
+- Projects
+- Resources
 - Templates
 
 Some of the folders resemble the P.A.R.A approach promoted by Tiago Forte.

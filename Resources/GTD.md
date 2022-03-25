@@ -2,7 +2,7 @@
 
 How to be:  present, effective, and creative
 
-- My project to integrate [[Obsidian]] and GTD [link](https://github.com/chuckthenerd/GTD-obsidian)
+- This project to integrate [[Obsidian]] and GTD [link](https://github.com/chuckthenerd/GTD-obsidian)
 - Getting Things Done ([[GTD]]) by David Allen - [Animated Book Summary And Review](https://www.youtube.com/watch?v=gCswMsONkwY)
 
 
