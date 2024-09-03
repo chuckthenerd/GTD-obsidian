@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Take over the world.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Take over the world.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,12 +127,13 @@
   },
   "active": "f6f4d72aa2d8111c",
   "lastOpenFiles": [
+    "Tasks.md",
+    "README.md",
+    "Take over the world.md",
     "Daily Notes/2024-09-03.md",
     "Templates/Template Daily Note.md",
     "Daily Notes",
     "Daily Notes/2022-03-11.md",
-    "README.md",
-    "Take over the world.md",
     "tags.md",
     "Resources/GTD.md"
   ]

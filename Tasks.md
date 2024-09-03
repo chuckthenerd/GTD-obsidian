@@ -8,6 +8,8 @@ reference documentation: https://schemar.github.io/obsidian-tasks/
 
 - [ ] Address recurring tasks 
 - [ ] Documentation on what a task is
+- [ ] Add links to GTD podcasts
+- [ ] Add link to other productivity resources
 
 ## Task categories
 - overdue
@@ -15,11 +17,19 @@ reference documentation: https://schemar.github.io/obsidian-tasks/
 - waiting for
 
 ## Overdue
+
+> [!danger]- Overdue
 ``` tasks
 not done
 due before today
-path does not include Template
+path does not include Templates
 path does not include Archive
+# short mode
+# hide tags
+# hide task count
+group by filename
+sort by priority
+sort by description
 ```
 
 ---
@@ -35,7 +45,7 @@ In recent years, Kanban boards have increased in popularity.  One approach they 
 
 ``` tasks
 not done
-description includes #WIP 
+description includes #wip 
 path does not include Template
 path does not include Archive
 ```
@@ -47,11 +57,15 @@ Tasks that can be skipped would be in the folder: Templates or Archive
 %%
 
 ## Waiting For
-``` tasks
+> [!warning] Waiting For
+```tasks
 not done
-description includes #waitingFor 
+# no due date
+path does not include Archive
+tag includes #waitingFor  
+sort by description
+# full mode
 ```
-
 
 ---
 
@@ -62,3 +76,7 @@ description does not include #WIP
 path does not include Template
 path does not include Archive
 ```
+
+---
+
+[Tasks User Guide](https://publish.obsidian.md/tasks/Introduction)

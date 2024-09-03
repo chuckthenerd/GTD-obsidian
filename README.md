@@ -1,8 +1,5 @@
-# GTD-obsidian
-This project implements Getting Things Done ([[GTD]]) using [[Obsidian]].
-
-- [ ] Add links to GTD podcasts
-- [ ] Add link to other productivity resources
+# GTD-Obsidian
+This project implements Getting Things Done ([[GTD]]) using [[Obsidian]].  It is a collection of wisdom acquired from years of experience.
 
 ## Why
 
