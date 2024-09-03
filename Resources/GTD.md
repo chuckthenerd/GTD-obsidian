@@ -2,12 +2,17 @@
 
 How to be:  present, effective, and creative
 
-- Getting Things Done ([[GTD]]) by David Allen - [Animated Book Summary And Review](https://www.youtube.com/watch?v=gCswMsONkwY)
+- Getting Things Done ([[GTD]]) by David Allen - ISBN 9780142000281
+	- [WorldCat / libraries](https://search.worldcat.org/search?loc=27613&q=bn%3A0142000280&author=Allen%2C+David)
+	- [YouTube - Animated Book Summary And Review](https://www.youtube.com/watch?v=gCswMsONkwY)
+	- [Goodreads](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
+	- [AbeBooks](https://www.abebooks.com/servlet/SearchResults?ch_sort=t&cm_sp=sort-_-SRP-_-Results&ds=30&kn=9780142000281&rollup=on&sortby=19)
+	- [Amazon](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?crid=35TS7SLUZ3997&dib=eyJ2IjoiMSJ9.9xMEJQ8ztv9RaS6mgAAYjw.SHsS5xmvrPno4yplBmsfz5k5_OAe6NGyxvZKsLb2FzU&dib_tag=se&keywords=9780142000281&qid=1725402291&s=books&sprefix=getting+things+done+by+david+allen%2Cstripbooks%2C122&sr=1-1)
 
-- My project to integrate [[Obsidian]] and GTD [link](https://github.com/chuckthenerd/GTD-obsidian)
+- The [GTD-Obsidian](https://github.com/chuckthenerd/GTD-obsidian) github project to help integrate [[Obsidian]] and GTD
 
 
-## Online references
+## Online GTD references
 - [reddit.com/r/gtd](https://www.reddit.com/r/gtd/)
 - [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd)
 

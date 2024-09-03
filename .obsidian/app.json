@@ -4,5 +4,6 @@
   "attachmentFolderPath": "Attachments",
   "showFrontmatter": false,
   "foldHeading": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "showInlineTitle": false
 }
